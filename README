@@ -1,0 +1,3 @@
+This is the BETA release of NikBloomFilter.
+
+NikBloomFilter is implemented in C++. This BETA version may not be optimized in terms of performance.
